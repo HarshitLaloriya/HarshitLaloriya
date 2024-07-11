@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **developing ML reinforcement project.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HarshitLaloriya](https://github.com/HarshitLaloriya)
+- 👨‍💻 All of my projects are available at **GitHub.**
 
 - 💬 Ask me about **Python, Machine Learning, SQL queries.**
 
@@ -56,4 +56,7 @@
 <!-- <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitlaloriya&show_icons=true&locale=en&layout=compact" alt="harshitlaloriya" /> -->
 <img align="" width="422" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitlaloriya&" alt="harshitlaloriya" />
 </div>
+![css-3](https://github.com/HarshitLaloriya/HarshitLaloriya/assets/153602422/6835a5c1-b1b1-473d-9802-42dad057278b)
+![panda](https://github.com/HarshitLaloriya/HarshitLaloriya/assets/153602422/d992a34d-4415-4392-af5e-a8e3dfd94d15)
 
+<!---<p align="left"></p>--->
