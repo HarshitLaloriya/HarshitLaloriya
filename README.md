@@ -51,7 +51,9 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></p>
 
 <!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitlaloriya&show_icons=true&locale=en&layout=compact" alt="harshitlaloriya" /></p>  --->
+<div>
+<img align="" src="https://github-readme-stats.vercel.app/api?username=harshitlaloriya&show_icons=true&locale=en" alt="harshitlaloriya" />
+<!-- <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitlaloriya&show_icons=true&locale=en&layout=compact" alt="harshitlaloriya" /> -->
+<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitlaloriya&" alt="harshitlaloriya" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harshitlaloriya&show_icons=true&locale=en" alt="harshitlaloriya" />&nbsp;&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitlaloriya&" alt="harshitlaloriya" /></p>
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
