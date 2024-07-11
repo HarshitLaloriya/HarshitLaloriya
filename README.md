@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshit Laloriya</h1>
-<h3 align="center">A passionate Tech Guy from India</h3>
-<img src="https://komarev.com/ghpvc/?username=harshitlaloriya&label=Profile%20views&color=0e75b6&style=flat" alt="harshitlaloriya" width="400"  align="right" />
+<h3 align="center">A Data Science Enthusiast from India</h3>
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/media/76bd131b4aa3447eb9f9d0887972c066.gif" alt="harshitlaloriya" width="400"  align="right" style="border-radius: 50px;" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitlaloriya&label=Profile%20views&color=0e75b6&style=flat" alt="harshitlaloriya" /> </p>
 
@@ -48,8 +50,8 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitlaloriya&show_icons=true&locale=en&layout=compact" alt="harshitlaloriya" /></p>
+<!--- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitlaloriya&show_icons=true&locale=en&layout=compact" alt="harshitlaloriya" /></p>  --->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitlaloriya&show_icons=true&locale=en" alt="harshitlaloriya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitlaloriya&show_icons=true&locale=en" alt="harshitlaloriya" />&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitlaloriya&" alt="harshitlaloriya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitlaloriya&" alt="harshitlaloriya" /></p>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
