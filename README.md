@@ -18,9 +18,9 @@
 
 - 📫 How to reach me **officialharshitlaloriya@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/harshit-laloriya/](https://www.linkedin.com/in/harshit-laloriya/)
+- 📄 Know about my experiences at **LinkedIn.**
 
-- ⚡ Fun fact **did you know i got idea to build project(THE FILE EXTRACTOR) after watching 📽️netflix🍿 movie EXTRACTION**
+- ⚡ Fun fact **did you know i got idea to build  project(THE FILE EXTRACTOR) while watching the movie EXTRACTION on 📽️Netflix🍿 .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,3 +57,6 @@
 <img align="" width="422" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitlaloriya&" alt="harshitlaloriya" />
 </div>
 
+<p align="center">
+<img   src="https://github.com/HarshitLaloriya/HarshitLaloriya/blob/main/Images/MADE%20WITH%20small.png" alt="harshitlaloriya" />
+</p>
