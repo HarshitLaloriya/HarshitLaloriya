@@ -54,6 +54,6 @@
 <div>
 <img align="" width="400" src="https://github-readme-stats.vercel.app/api?username=harshitlaloriya&show_icons=true&locale=en" alt="harshitlaloriya" />
 <!-- <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitlaloriya&show_icons=true&locale=en&layout=compact" alt="harshitlaloriya" /> -->
-<img align="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitlaloriya&" alt="harshitlaloriya" />
+<img align="" width="422" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitlaloriya&" alt="harshitlaloriya" />
 </div>
 
